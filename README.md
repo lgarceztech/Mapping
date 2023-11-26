@@ -10,7 +10,7 @@ This project is implemented using Python, and the development and testing were c
 
 ## Further Information
 
-For a detailed, step-by-step description of the project, as well as information on the key libraries and frameworks utilized, please visit the project's comprehensive tutorial in the `Projects` section at [garcez.tech](https://garcez.tech).
+For a detailed, step-by-step description of the project, as well as information on the key libraries and frameworks utilized, please visit the project's comprehensive tutorial in the `Projects` section at [garcez.tech](https://garcez.tech). The data was obtained from the BEA and BLS. The shape files were obtained from the Census Bureau.
 
 ---
 
